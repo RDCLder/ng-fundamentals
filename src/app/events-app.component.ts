@@ -1,0 +1,1 @@
+import { Component } from '@angular/core';@Component({  selector: 'app-root',  template: `    <NavBar></NavBar>    <router-outlet></router-outlet>  `})export class EventsAppComponent {  title = 'ng-fundamentals';}
